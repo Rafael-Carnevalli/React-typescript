@@ -1,6 +1,6 @@
 import React from "react";
-import style from './Lista.module.scss'
-import Item from "./item";
+import style from "./Lista.module.scss";
+import Item from "./Item";
 
 function Lista() {
   const tarefa = [{
